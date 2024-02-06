@@ -1,4 +1,4 @@
-<div align="center"><img src="Openstack/docs/images/Postgres-DB-cluster.png"></div>
+<div align="center"><img src="./docs/images/Postgres-DB-cluster.png"></div>
 
 
 <picture>
