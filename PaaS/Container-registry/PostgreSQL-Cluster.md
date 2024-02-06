@@ -1,0 +1,1 @@
+<div align=center><img src="C:\Users\vinh\Documents\code\Openstack\docs\images\Postgres-DB-cluster.png?raw=true"></div>
